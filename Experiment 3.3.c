@@ -5,7 +5,7 @@ Height(Mts)*Height(Mts).*/
 #include <stdio.h>
 int main()
 {
-printf("Name-Kunal Thakur \nSAP ID-590028530\ncourse-BSC-
+printf("Name-Mahek Tilara \nSAP ID-590025452\ncourse-BSC-
 CS\nBATCH-B1\n");
 printf("\n------------------------------------------\n");
 float weight, height, bmi;
