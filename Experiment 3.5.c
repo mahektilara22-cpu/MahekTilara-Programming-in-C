@@ -4,7 +4,7 @@ the keyboard write a program to find out what is the day on 1st January of this 
 #include<stdio.h>
 int main()
 {
-printf("Himansh Jeengar\nSAP ID: 590025460\nCourse- BSc CS\nBatch-1");
+printf("Mahek Tilara\nSAP ID: 590025452\nCourse- BSc CS\nBatch-1");
 printf("\n---------------------------------------------------------------------------------\n");
 int yr, i, day=0, a;
 printf("Enter the year:"); scanf("%d", &yr);
